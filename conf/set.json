@@ -1,7 +1,8 @@
 {
   "HomeHeaderTitle": "SomaApp",
-  "ImproveFormBottone": false,
-  "DevAccountBottone": false
+  "ImproveFormBottone": true,
+  "DevAccountBottone": true
 
 }
+
 
