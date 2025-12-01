@@ -1,5 +1,6 @@
 {
-  "HomeHeaderTitle": "Welcome to My App",
+  "HomeHeaderTitle": "SomaApp",
   "ImproveFormBottone": true,
-  "DevAccountBottone": true
+  "DevAccountBottone": false
+
 }
