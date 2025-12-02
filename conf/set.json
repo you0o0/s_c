@@ -1,9 +1,10 @@
 {
-  "HomeHeaderTitle": "<p style='size: 15px; color: white; text-shadow: 2px 2px 4px black;'>So33ma</p>",
+  "HomeHeaderTitle": "<p style='font-size: 15px; color: white; text-shadow: 2px 2px 4px black;'>So33ma</p>",
   "ImproveFormBottone": true,
   "DevAccountBottone": false
 
 }
+
 
 
 
