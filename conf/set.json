@@ -1,9 +1,10 @@
 {
-  "HomeHeaderTitle": "<h1 style='color: white; text-shadow: 2px 2px 4px black;'>So33ma</h1>",
+  "HomeHeaderTitle": "<p style='size: 15px; color: white; text-shadow: 2px 2px 4px black;'>So33ma</p>",
   "ImproveFormBottone": true,
   "DevAccountBottone": false
 
 }
+
 
 
 
