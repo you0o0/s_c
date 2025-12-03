@@ -1,9 +1,10 @@
 {
   "headerConfig": {
     "type": "text", 
-    "content": "",
-    "fontSize": 19 
+    "content": "SomaApp",
+    "fontSize": 17
   },
-  "ImproveFormBottone": true,
+  "ImproveFormBottone": false,
   "DevAccountBottone": false
 }
+
