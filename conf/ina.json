@@ -2,8 +2,9 @@
   "headerConfig": {
     "type": "text", 
     "content": "Soma سوما",
-    "fontSize": 19 
+    "fontSize": 15 
   },
   "ImproveFormBottone": true,
   "DevAccountBottone": false
 }
+
