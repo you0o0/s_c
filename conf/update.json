@@ -3,7 +3,8 @@
   "versionCode": 2,
   "releaseNotes": "• إضافة تحميل الصوتيات بجودة 320kbps\n• إصلاح مشكلة التحميل في أندرويد 14\n• تحسين سرعة التحميل بنسبة 40%\n• دعم تنزيل القوائم كاملة",
   "downloadUrl": "https://github.com/اسم_المستخدم/اسم_الريبو/releases/download/v2.5.1/MyApp-v2.5.1.apk",
-  "forceUpdate": true
+  "forceUpdate": false
 
 }
+
 
