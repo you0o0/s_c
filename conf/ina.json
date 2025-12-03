@@ -1,9 +1,8 @@
 {
   "headerConfig": {
-    "type": "image", 
-    "content": "https://i.postimg.cc/gjMXxbm9/Gemini-Generated-Image-jiso5xjiso5xjiso.png",
-    "width": 110,
-    "height": 50
+    "type": "text", 
+    "content": "",
+    "fontSize": 19 
   },
   "ImproveFormBottone": true,
   "DevAccountBottone": false
