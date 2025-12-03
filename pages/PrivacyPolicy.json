@@ -1,0 +1,68 @@
+{
+    "ar": {
+        "title": "سياسة تطبيق سوما",
+        "sections": [
+            {
+                "title": "المعلومات التي نجمعها",
+                "text": "لا يقوم تطبيق سوما بجمع أي بيانات شخصية عن المستخدم، ولا يتم جمع أو تخزين أو تحليل أي معلومات متعلقة بهوية المستخدم أو استخدامه للتطبيق."
+            },
+            {
+                "title": "استخدام البيانات",
+                "text": "لا يستخدم التطبيق أي خدمات تحليل، ولا يعرض إعلانات، ولا يسجل أي نشاط للمستخدم. يتم استخدام اتصال الإنترنت فقط لتحميل المحتوى المطلوب داخل التطبيق، دون إرسال أي بيانات إلى خوادم خارجية تابعة للمطور."
+            },
+            {
+                "title": "تخزين البيانات",
+                "text": "قد يوفّر التطبيق إمكانية حفظ بعض المحتوى أو العناصر بشكل محلي على جهاز المستخدم لتحسين تجربة الاستخدام. يتم تخزين هذه البيانات محليًا فقط، ولا يتم رفعها أو مشاركتها مع أي جهة."
+            },
+            {
+                "title": "مشاركة البيانات",
+                "text": "لا يشارك التطبيق أي بيانات مع أي أطراف خارجية، ولا يتم إرسال أي معلومات عن المستخدم أو جهازه إلى أي طرف ثالث."
+            },
+            {
+                "title": "المحتوى الخارجي",
+                "text": "قد يعرض التطبيق محتوى من مصادر خارجية عبر واجهات برمجة تطبيقات (APIs) أو روابط خارجية. يخضع هذا المحتوى لشروط وأحكام وسياسات الخصوصية الخاصة بمصادره، ولا يتحكم التطبيق بهذه السياسات."
+            },
+            {
+                "title": "الأذونات",
+                "text": "يستخدم التطبيق إذن الاتصال بالإنترنت فقط لتحميل المحتوى. ولا يطلب أي أذونات إضافية للوصول إلى بيانات الجهاز."
+            },
+            {
+                "title": "التحديثات",
+                "text": "قد يتم تحديث سياسة الخصوصية من وقت لآخر، وسيتم توفير النسخة المحدثة داخل التطبيق عند تغيير أي بنود."
+            }
+        ]
+    },
+    "en": {
+        "title": "Soma - Privacy Policy",
+        "sections": [
+            {
+                "title": "Information We Collect",
+                "text": "Soma does not collect any personal data about the user, nor does it collect, store, or analyze any information related to the user's identity or usage of the application."
+            },
+            {
+                "title": "Data Usage",
+                "text": "The application does not use any analytics services, does not display ads, and does not record any user activity. Internet connection is used solely to load requested content within the application, without sending any data to external servers belonging to the developer."
+            },
+            {
+                "title": "Data Storage",
+                "text": "The application may provide the ability to save some content or items locally on the user's device to improve the user experience. This data is stored locally only and is not uploaded or shared with any entity."
+            },
+            {
+                "title": "Data Sharing",
+                "text": "The application does not share any data with any external parties, and no information about the user or their device is sent to any third party."
+            },
+            {
+                "title": "External Content",
+                "text": "The application may display content from external sources via APIs or external links. This content is subject to the terms, conditions, and privacy policies of its sources, and the application does not control these policies."
+            },
+            {
+                "title": "Permissions",
+                "text": "The application uses the internet connection permission only to load content. It does not request any additional permissions to access device data."
+            },
+            {
+                "title": "Updates",
+                "text": "The privacy policy may be updated from time to time, and the updated version will be provided within the application when any terms change."
+            }
+        ]
+    }
+}
