@@ -1,9 +1,9 @@
 {
-  "HomeHeaderTitle": "SomaApp",
+  "headerConfig": {
+    "type": "text", 
+    "content": "Soma سوما",
+    "fontSize": 19 
+  },
   "ImproveFormBottone": true,
   "DevAccountBottone": false
-
 }
-
-
-
