@@ -3,7 +3,7 @@
   "versionCode": 2,
   "releaseNotes": "فيه كفتة",
   "downloadUrl": "https://github.com/اسم_المستخدم/اسم_الريبو/releases/download/v2.5.1/MyApp-v2.5.1.apk",
-  "forceUpdate": true
+  "forceUpdate": false
 
 }
 
