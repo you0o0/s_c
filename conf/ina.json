@@ -4,8 +4,9 @@
     "content": "SomaApp",
     "fontSize": 17
   },
-  "ImproveFormBottone": false,
-  "DevAccountBottone": true
+  "ImproveFormBottone": true,
+  "DevAccountBottone": false
 }
+
 
 
