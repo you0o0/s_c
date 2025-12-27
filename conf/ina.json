@@ -1,12 +1,14 @@
 {
   "headerConfig": {
-    "type": "text", 
-    "content": "SomaApp",
-    "fontSize": 17
+    "type": "image", 
+    "content": "https://www.iloveimg.com/img/iloveimg.svg",
+    "width": 110,
+    "height": 50
   },
   "ImproveFormBottone": true,
   "DevAccountBottone": true
 }
+
 
 
 
