@@ -1,8 +1,7 @@
 {
-  "version": "1.1.3",
-  "versionCode": 2,
-  "releaseNotes": "test بطاطا سخنة",
-  "downloadUrl": "https://github.com/اسم_المستخدم/اسم_الريبو/releases/download/v2.5.1/MyApp-v2.5.1.apk",
+  "version": "1.0.1",
+  "versionCode": 1,
+  "releaseNotes": "",
+  "downloadUrl": "https://github.com/you0ssef/SomaApp/releases",
   "forceUpdate": false
-
 }
